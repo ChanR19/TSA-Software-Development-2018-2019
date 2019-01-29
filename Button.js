@@ -1,3 +1,5 @@
+//TO CHANGE TEXT: buttonName.text=newText;
+
 function Button(x,y,w,h,t,ts){
   this.clicked =false;
   this.text = t;
